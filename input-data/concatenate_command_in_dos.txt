@@ -1,0 +1,1 @@
+copy 1999.csv+2000.csv+2001.csv+2002.csv+2003.csv+2004.csv+2005.csv+2006.csv+2007.csv+2008.csv+2009.csv+2010.csv+2011.csv+2012.csv+2013.csv+2014.csv all_years.csv
