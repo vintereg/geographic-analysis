@@ -1,6 +1,8 @@
 # Plots all viable admissions by full year.
 # Last modified on Feb. 8, 2015
 
+# Egan comments.
+
 source("do housekeeping and read data.R")
 
 # Create a variable (column) that corresponds to the year of each admission:
